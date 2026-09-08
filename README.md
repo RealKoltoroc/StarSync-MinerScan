@@ -2,6 +2,10 @@
 
 StarSync MinerScan is a lightweight Windows companion tool for Star Citizen mining and scanning workflows. It continuously captures a user-defined screen region, performs local OCR on scanner signature values, resolves recognized values against a local target database, and can trigger sound, logging, enrichment and self-contained HTML reports.
 
+<img width="920" height="1210" alt="image" src="https://github.com/user-attachments/assets/c98dffbe-238e-46a8-bc6e-536f242ff0de" />
+
+
+
 ## Highlights
 
 - Rust / eframe-egui native desktop application.
