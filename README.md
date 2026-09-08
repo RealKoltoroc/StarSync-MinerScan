@@ -1,3 +1,6 @@
+
+
+
 # StarSync-MinerScan
 StarSync mining scanning utility for Star Citizen
 # StarSync MinerScan
@@ -8,6 +11,8 @@ StarSync MinerScan is a lightweight Windows companion tool for Star Citizen mini
 > Support / Patreon: **https://patreon.com/TheRealKoltoroc?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink**
 >
 > Replace these two placeholders before publishing. No personal names, local machine paths, email addresses or account identifiers are included in this public package.
+
+<img width="921" height="1110" alt="image" src="https://github.com/user-attachments/assets/3e30e183-d15c-48c1-b0ae-45e3330f3b2e" />
 
 ## Highlights
 
