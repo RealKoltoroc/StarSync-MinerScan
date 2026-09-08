@@ -2,11 +2,6 @@
 
 StarSync MinerScan is a lightweight Windows companion tool for Star Citizen mining and scanning workflows. It continuously captures a user-defined screen region, performs local OCR on scanner signature values, resolves recognized values against a local target database, and can trigger sound, logging, enrichment and self-contained HTML reports.
 
-> Public repository: **https://github.com/RealKoltoroc/StarSync-MinerScan**  
-> Support / Patreon: **https://patreon.com/TheRealKoltoroc?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink**
->
-> Replace these two placeholders before publishing. No personal names, local machine paths, email addresses or account identifiers are included in this public package.
-
 ## Highlights
 
 - Rust / eframe-egui native desktop application.
@@ -78,8 +73,6 @@ See `THIRD_PARTY_NOTICES.md` for licensing and attribution details.
 ## Support
 
 The software is free and is intended to remain free. If MinerScan is useful to you and you want to support continued maintenance, testing and future Star Citizen compatibility work, voluntary support is welcome via Patreon:
-
-**https://patreon.com/TheRealKoltoroc?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink**
 
 There are no paid feature locks implied by this support link.
 
